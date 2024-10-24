@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.31)
+project(git-demo CXX)
+add_executable(test src/test.cpp)
+set_target_properties(test PROPERTIES CXX_STANDARD 23)
+target_include_directories(test PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/include")

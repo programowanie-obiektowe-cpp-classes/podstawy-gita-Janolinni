@@ -1,0 +1,3 @@
+C:/Users/JPUra/Desktop/programowanie/cpp/insturkcja1/build/CMakeFiles/lab1.dir
+C:/Users/JPUra/Desktop/programowanie/cpp/insturkcja1/build/CMakeFiles/edit_cache.dir
+C:/Users/JPUra/Desktop/programowanie/cpp/insturkcja1/build/CMakeFiles/rebuild_cache.dir
