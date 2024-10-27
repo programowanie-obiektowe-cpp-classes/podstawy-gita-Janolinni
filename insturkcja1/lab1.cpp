@@ -2,8 +2,8 @@
 #include <iostream>
 struct Wektor2D
 {
-    int x;
-    int y;
+    double x;
+    double y;
     
     double norm()
     {
